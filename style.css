@@ -1,0 +1,28 @@
+div
+{
+    boder-radius:5px
+
+}
+#pic{
+    position: absolute;
+    left: 1300px;
+
+}
+table, th, td {
+    border: 1px solid;
+  }
+#main{
+    border: 2px solid black;
+    padding: 25px;
+   
+    min-height: 200px;
+    width: 60%;
+    min-width: 700px;
+    background-color: rgb(215, 218, 221);
+    margin: 30px auto;
+    padding: 30px;
+    color: black
+   
+    
+  }
+
